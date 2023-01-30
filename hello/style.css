@@ -1,0 +1,19 @@
+body{
+    position: absolute;
+    left: 200px;
+    top: 300px;
+}
+
+.title{
+    color: black;
+}
+
+.second-title{
+    font-size: 2em;
+    position: absolute;
+    top: 10px;
+}
+
+.second-title:hover{
+    color: lightpink;
+}
