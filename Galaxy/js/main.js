@@ -8,7 +8,7 @@ var canvas = document.getElementById('canvas'),
     hue = 217,
     stars = [],
     count = 0,
-    maxStars = 1400;
+    maxStars = 1300;
 
 // Thanks @jackrugile for the performance tip! https://codepen.io/jackrugile/pen/BjBGoM
 // Cache gradient
