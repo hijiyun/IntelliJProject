@@ -11,13 +11,15 @@ A
 css/bootstrap.css,f\c\fcd418984df8efa4af99dc01ff73465148271722
 E
 css/bootstrap.rtl.css,2\c\2c63d1c158cfd8220e0ad58d36820ffaf6aed7a7
+:
+
+js/main.js,d\a\dae13fd6f331d1c91ab58b06e81d05cb8958bfb1
+>
+firstPage.html,f\e\fe3a222ed585c34f4a7041541bd9aca3e31897cc
+=
+css/main2.css,5\4\54ccf8c5e6bd8722422e0597d366134bdb75289a
 <
 css/main.css,f\a\fa343e38d93aa0d46d1a993565d0ca98d96283b4
 :
 
 index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
->
-firstPage.html,f\e\fe3a222ed585c34f4a7041541bd9aca3e31897cc
-:
-
-js/main.js,d\a\dae13fd6f331d1c91ab58b06e81d05cb8958bfb1
